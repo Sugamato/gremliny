@@ -9,7 +9,7 @@
 
 ## Технологии, которые мы использовали
 - HTML, CSS, JavaScript(gpr04), Visual Studio, Блокнот.
-- Background eraser, Alight Motion, CapCut, Figma, PowerPoint, YandexBoard, Paint, VpsOffice.
+- Background eraser, Alight Motion, CapCut, Figma, PowerPoint, YandexBoard, Paint, WpsOffice.
 - Git, GitHub.
 
 ## Наши проекты
